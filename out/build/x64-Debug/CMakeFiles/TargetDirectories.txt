@@ -1,0 +1,3 @@
+C:/Users/jacma/source/repos/LevelRendererDev4/out/build/x64-Debug/CMakeFiles/Assignment_2_D3D11.dir
+C:/Users/jacma/source/repos/LevelRendererDev4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jacma/source/repos/LevelRendererDev4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

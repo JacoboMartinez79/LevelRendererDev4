@@ -1,0 +1,1382 @@
+# Game Level Exporter v1.0
+MESH
+Floor_Standard_Cube.044
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (281.9313,   2.1465, -18.1664, 1.0000)>
+MESH
+Floor_Standard_Cube
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (300.4713,   2.0979,   1.2250, 1.0000)>
+MESH
+Floor_Standard_Cube.002
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (281.9313,   2.0979,   1.2250, 1.0000)>
+MESH
+Floor_Standard_Cube.003
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (262.4503,   2.0979,   1.2250, 1.0000)>
+MESH
+Floor_Standard_Cube.004
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (281.9313,   2.0495,  20.5338, 1.0000)>
+MESH
+Floor_Standard_Cube.005
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (262.4503,   2.0496,  20.4993, 1.0000)>
+MESH
+Floor_Standard_Cube.006
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (262.4503,   2.1462, -18.0713, 1.0000)>
+MESH
+Floor_Standard_Cube.007
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (281.9313,   2.1941, -37.1718, 1.0000)>
+MESH
+Floor_Standard_Cube.008
+<Matrix 4x4 ( 10.0835,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0253, -10.0835, 0.0000)
+            (281.9313,   2.0013,  39.7830, 1.0000)>
+MESH
+Arch_Gothic_RoundColumn_Cylinder.021
+<Matrix 4x4 ( -0.0095,  0.0161, -6.4348, 0.0000)
+            (  0.0000, -6.4348, -0.0161, 0.0000)
+            ( -6.4348, -0.0000,  0.0095, 0.0000)
+            (310.3464,  1.8726,  1.2245, 1.0000)>
+MESH
+Bookcase_Full_Cylinder
+<Matrix 4x4 ( -9.6795,  0.0000, -0.0056, 0.0000)
+            ( -0.0000, -9.6795, -0.0243, 0.0000)
+            ( -0.0056, -0.0243,  9.6795, 0.0000)
+            (281.9920,  2.7340, 46.4550, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.002
+<Matrix 4x4 ( -0.1899,  0.0221,  -8.8109, 0.0000)
+            (  0.0000, -9.6795,  -0.0243, 0.0000)
+            ( -9.6769, -0.0005,   0.2086, 0.0000)
+            (255.8292,  3.1690, -18.8234, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.003
+<Matrix 4x4 ( -0.2086,  0.0242, -9.6773, 0.0000)
+            (  0.0000, -9.6795, -0.0243, 0.0000)
+            ( -9.6773, -0.0005,  0.2086, 0.0000)
+            (255.8292,  3.1212,  0.2505, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.004
+<Matrix 4x4 ( -0.2086,  0.0242, -9.6773, 0.0000)
+            (  0.0000, -9.6795, -0.0243, 0.0000)
+            ( -9.6773, -0.0005,  0.2086, 0.0000)
+            (255.8292,  3.0710, 20.2832, 1.0000)>
+MESH
+Column_Round_Cylinder
+<Matrix 4x4 ( 36.8973,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -36.8972,  -0.0925, 0.0000)
+            (  0.0000,   0.0925, -36.8972, 0.0000)
+            (263.0530,  46.1433, -36.4430, 1.0000)>
+MESH
+Curve_1_Cube.005
+<Matrix 4x4 ( -8.2109,  -0.0001,  0.0344, 0.0000)
+            ( -0.0000, -10.3410, -0.0259, 0.0000)
+            (  0.0344,  -0.0206,  8.2109, 0.0000)
+            (291.3439,   7.3687, 32.4933, 1.0000)>
+MESH
+Curve_1_Cube
+<Matrix 4x4 (  0.1684,  -0.0206,   8.2095, 0.0000)
+            (  0.0000, -10.4233,  -0.0261, 0.0000)
+            (  8.8590,   0.0005,  -0.1817, 0.0000)
+            (291.9476,   7.5215, -28.4618, 1.0000)>
+MESH
+Wall_Cube.354
+<Matrix 4x4 (  0.0115,   0.0267, -10.6543, 0.0000)
+            (  0.0000, -10.0349,  -0.0251, 0.0000)
+            (-10.0349,   0.0000,  -0.0109, 0.0000)
+            (310.2991,   7.0181,  21.7961, 1.0000)>
+MESH
+Wall_Cube
+<Matrix 4x4 (  0.0113,   0.0262, -10.4391, 0.0000)
+            (  0.0000, -10.0349,  -0.0251, 0.0000)
+            (-10.0349,   0.0000,  -0.0109, 0.0000)
+            (310.2991,   7.1204, -19.0363, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder.033
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (314.1836, 42.7086, 10.1800, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (314.1836, 42.7551, -8.4064, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder.002
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (349.2961, 42.7086, 10.1800, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder.003
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (349.2961, 42.7551, -8.4064, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder.004
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (382.5538, 42.7551, -8.4064, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder.005
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (382.5538, 42.7086, 10.1800, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder.006
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (409.9741, 42.7086, 10.1800, 1.0000)>
+MESH
+Column_BridgeSupport_Cylinder.007
+<Matrix 4x4 (  9.5724,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -9.5723, -0.0240, 0.0000)
+            (  0.0000,  0.0240, -9.5723, 0.0000)
+            (409.9741, 42.7551, -8.4064, 1.0000)>
+MESH
+Column_Round_Cylinder.002
+<Matrix 4x4 ( 36.8973,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -36.8972,  -0.0925, 0.0000)
+            (  0.0000,   0.0925, -36.8972, 0.0000)
+            (263.0530,  45.9542,  39.0073, 1.0000)>
+MESH
+Wall_Cube.002
+<Matrix 4x4 ( -0.0182,  -0.0267,  10.6542, 0.0000)
+            ( -0.0000, -10.0349,  -0.0251, 0.0000)
+            ( 10.0349,  -0.0000,   0.0171, 0.0000)
+            (415.5327,   7.1210, -19.2941, 1.0000)>
+MESH
+Wall_Cube.003
+<Matrix 4x4 ( -0.0178,  -0.0262, 10.4391, 0.0000)
+            ( -0.0000, -10.0349, -0.0251, 0.0000)
+            ( 10.0349,  -0.0000,  0.0171, 0.0000)
+            (415.5072,   7.0187, 21.5383, 1.0000)>
+MESH
+Floor_Standard_Cube.009
+<Matrix 4x4 (-10.0835,   0.0000, -0.0063, 0.0000)
+            (  0.0000, -10.0835, -0.0253, 0.0000)
+            ( -0.0063,  -0.0253, 10.0835, 0.0000)
+            (443.8755,   2.0492, 20.6612, 1.0000)>
+MESH
+Floor_Standard_Cube.010
+<Matrix 4x4 (-10.0835,   0.0000,  -0.0063, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            ( -0.0063,  -0.0253,  10.0835, 0.0000)
+            (443.9117,   2.1944, -37.2882, 1.0000)>
+MESH
+Floor_Standard_Cube.011
+<Matrix 4x4 (-10.0835,   0.0000, -0.0063, 0.0000)
+            (  0.0000, -10.0835, -0.0253, 0.0000)
+            ( -0.0063,  -0.0253, 10.0835, 0.0000)
+            (443.8636,   2.0015, 39.6666, 1.0000)>
+MESH
+Floor_Standard_Cube.012
+<Matrix 4x4 (-10.0835,   0.0000, -0.0063, 0.0000)
+            (  0.0000, -10.0835, -0.0253, 0.0000)
+            ( -0.0063,  -0.0253, 10.0835, 0.0000)
+            (463.3566,   2.0494, 20.5782, 1.0000)>
+MESH
+Floor_Standard_Cube.013
+<Matrix 4x4 (-10.0835,   0.0000,  -0.0063, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            ( -0.0063,  -0.0253,  10.0835, 0.0000)
+            (463.3807,   2.1460, -17.9923, 1.0000)>
+MESH
+Floor_Standard_Cube.014
+<Matrix 4x4 (-10.0835,   0.0000,  -0.0063, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            ( -0.0063,  -0.0253,  10.0835, 0.0000)
+            (443.8997,   2.1461, -18.0390, 1.0000)>
+MESH
+Floor_Standard_Cube.015
+<Matrix 4x4 (-10.0835,   0.0000, -0.0063, 0.0000)
+            (  0.0000, -10.0835, -0.0253, 0.0000)
+            ( -0.0063,  -0.0253, 10.0835, 0.0000)
+            (463.3687,   2.0977,  1.2819, 1.0000)>
+MESH
+Floor_Standard_Cube.016
+<Matrix 4x4 (-10.0835,   0.0000, -0.0063, 0.0000)
+            (  0.0000, -10.0835, -0.0253, 0.0000)
+            ( -0.0063,  -0.0253, 10.0835, 0.0000)
+            (443.8876,   2.0978,  1.2697, 1.0000)>
+MESH
+Floor_Standard_Cube.017
+<Matrix 4x4 (-10.0835,   0.0000, -0.0063, 0.0000)
+            (  0.0000, -10.0835, -0.0253, 0.0000)
+            ( -0.0063,  -0.0253, 10.0835, 0.0000)
+            (425.3477,   2.0978,  1.2582, 1.0000)>
+MESH
+Curve_1_Cube.002
+<Matrix 4x4 (  8.4887,   0.0001,  -0.0303, 0.0000)
+            (  0.0000, -10.1170,  -0.0254, 0.0000)
+            ( -0.0293,   0.0206,  -8.2109, 0.0000)
+            (434.4947,   7.5253, -29.9776, 1.0000)>
+MESH
+Curve_1_Cube.003
+<Matrix 4x4 ( -0.1632,  0.0206, -8.2099, 0.0000)
+            (  0.0000, -9.9374, -0.0249, 0.0000)
+            ( -9.5322, -0.0005,  0.1895, 0.0000)
+            (433.8528,  7.3725, 30.9771, 1.0000)>
+MESH
+Column_Round_Cylinder.003
+<Matrix 4x4 (-36.8973,   0.0001,  -0.0231, 0.0000)
+            (  0.0000, -36.8972,  -0.0925, 0.0000)
+            ( -0.0231,  -0.0925,  36.8972, 0.0000)
+            (462.7895,  46.1429, -36.2805, 1.0000)>
+MESH
+Column_Round_Cylinder.004
+<Matrix 4x4 (-36.8973,   0.0001, -0.0231, 0.0000)
+            (  0.0000, -36.8972, -0.0925, 0.0000)
+            ( -0.0231,  -0.0925, 36.8972, 0.0000)
+            (462.7423,  45.9538, 39.1698, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.005
+<Matrix 4x4 ( -9.6795,  0.0000, -0.0038, 0.0000)
+            (  0.0000, -9.6795, -0.0243, 0.0000)
+            ( -0.0038, -0.0243,  9.6795, 0.0000)
+            (443.7991,  2.9570, 45.9356, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.006
+<Matrix 4x4 (  0.2025, -0.0242,   9.6774, 0.0000)
+            (  0.0000, -9.6795,  -0.0243, 0.0000)
+            (  9.6774,  0.0005,  -0.2025, 0.0000)
+            (470.0017,  3.1166, -17.7671, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.007
+<Matrix 4x4 (  0.2025, -0.0242,  9.6774, 0.0000)
+            (  0.0000, -9.6795, -0.0243, 0.0000)
+            (  9.6774,  0.0005, -0.2025, 0.0000)
+            (469.9891,  3.0664,  2.2656, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.008
+<Matrix 4x4 (  0.1844, -0.0221,  8.8110, 0.0000)
+            (  0.0000, -9.6795, -0.0243, 0.0000)
+            (  9.6770,  0.0005, -0.2025, 0.0000)
+            (469.9773,  3.0186, 21.3394, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.009
+<Matrix 4x4 (  9.6795, -0.0000,   0.0117, 0.0000)
+            ( -0.0000, -9.6795,  -0.0243, 0.0000)
+            (  0.0117,  0.0243,  -9.6795, 0.0000)
+            (443.8552,  3.1823, -43.9560, 1.0000)>
+MESH
+Arch_Gothic_RoundColumn_Cylinder
+<Matrix 4x4 (  0.0055, -0.0161,  6.4348, 0.0000)
+            ( -0.0000, -6.4348, -0.0161, 0.0000)
+            (  6.4348,  0.0000, -0.0055, 0.0000)
+            (415.4726,  1.8725,  1.2514, 1.0000)>
+MESH
+Zombie_Cylinder.003
+<Matrix 4x4 ( -0.0174, -0.0109,  1.8748, 0.0000)
+            (  0.0000,  1.8749,  0.0109, 0.0000)
+            ( -1.8748,  0.0001, -0.0174, 0.0000)
+            (332.9785,  4.2821,  6.2441, 1.0000)>
+MESH
+Zombie_Cylinder
+<Matrix 4x4 ( -0.0174, -0.0109,  1.8748, 0.0000)
+            (  0.0000,  1.8749,  0.0109, 0.0000)
+            ( -1.8748,  0.0001, -0.0174, 0.0000)
+            (349.5890,  4.3218, -0.5777, 1.0000)>
+MESH
+Zombie_Cylinder.002
+<Matrix 4x4 ( -0.0174, -0.0109,  1.8748, 0.0000)
+            (  0.0000,  1.8749,  0.0109, 0.0000)
+            ( -1.8748,  0.0001, -0.0174, 0.0000)
+            (317.7315,  4.3121,  1.0934, 1.0000)>
+MESH
+Bricks_Cube
+<Matrix 4x4 (  5.9374,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -5.9374, -0.0149, 0.0000)
+            (  0.0000,  0.0149, -5.9374, 0.0000)
+            (389.5138,  6.1742,  1.2604, 1.0000)>
+MESH
+Barrel_Cylinder.037
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (309.5320,  8.8970,  6.2508, 1.0000)>
+MESH
+Barrel_Cylinder
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (309.5320,  8.6122, -3.9821, 1.0000)>
+MESH
+Barrel_Cylinder.002
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (319.0258,  8.5797, -8.9449, 1.0000)>
+MESH
+Barrel_Cylinder.003
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (335.4391,  8.5462, 10.8861, 1.0000)>
+MESH
+Barrel_Cylinder.004
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (355.3349,  8.5851, -9.0347, 1.0000)>
+MESH
+Barrel_Cylinder.005
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (374.1334,  8.5437, 11.8856, 1.0000)>
+MESH
+Barrel_Cylinder.006
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (390.3269,  8.5965, -9.1738, 1.0000)>
+MESH
+Barrel_Cylinder.007
+<Matrix 4x4 (  4.0250,  0.0000,  0.0000, 0.0000)
+            (  0.0000, -4.0250, -0.0101, 0.0000)
+            (  0.0000,  0.0101, -4.0250, 0.0000)
+            (404.8385,  8.5442, 11.7069, 1.0000)>
+MESH
+Bookcase_Full_Cylinder.001
+<Matrix 4x4 (  9.6788, -0.0003,   0.1186, 0.0000)
+            ( -0.0000, -9.6795,  -0.0243, 0.0000)
+            (  0.1186,  0.0243,  -9.6788, 0.0000)
+            (281.9920,  2.9604, -43.9215, 1.0000)>
+MESH
+BridgeSection_Cylinder.005
+<Matrix 4x4 ( -0.0467,  0.0239, -9.5288, 0.0000)
+            (  0.0000, -9.5289, -0.0239, 0.0000)
+            ( -9.5289, -0.0001,  0.0467, 0.0000)
+            (325.3624,  3.7641,  1.2653, 1.0000)>
+MESH
+BridgeSection_Cylinder
+<Matrix 4x4 ( -0.0467,  0.0239, -9.5288, 0.0000)
+            (  0.0000, -9.5289, -0.0239, 0.0000)
+            ( -9.5289, -0.0001,  0.0467, 0.0000)
+            (346.1901,  3.7641,  1.2653, 1.0000)>
+MESH
+BridgeSection_Cylinder.002
+<Matrix 4x4 ( -0.0467,  0.0239, -9.5288, 0.0000)
+            (  0.0000, -9.5289, -0.0239, 0.0000)
+            ( -9.5289, -0.0001,  0.0467, 0.0000)
+            (408.5609,  3.7641,  1.2653, 1.0000)>
+MESH
+BridgeSection_Cylinder.003
+<Matrix 4x4 ( -0.0467,  0.0239, -9.5288, 0.0000)
+            (  0.0000, -9.5289, -0.0239, 0.0000)
+            ( -9.5289, -0.0001,  0.0467, 0.0000)
+            (367.4468,  3.7641,  1.2653, 1.0000)>
+MESH
+BridgeSection_Cylinder.004
+<Matrix 4x4 ( -0.0467,  0.0239, -9.5288, 0.0000)
+            (  0.0000, -9.5289, -0.0239, 0.0000)
+            ( -9.5289, -0.0001,  0.0467, 0.0000)
+            (387.9633,  3.7641,  1.2653, 1.0000)>
+CAMERA
+Camera.001
+<Matrix 4x4 (  0.0857,  0.0010,  0.9963, 0.0000)
+            (  0.7015, -0.7102, -0.0596, 0.0000)
+            (  0.7076,  0.7040, -0.0615, 0.0000)
+            (342.5648,  6.5006,  1.2441, 1.0000)>
+CAMERA
+Camera.002
+<Matrix 4x4 ( -0.8207,  0.0018,  -0.5713, 0.0000)
+            ( -0.0648, -0.9938,   0.0900, 0.0000)
+            ( -0.5676,  0.1109,   0.8158, 0.0000)
+            (447.3570, 18.3162, -56.7912, 1.0000)>
+CAMERA
+Camera.003
+<Matrix 4x4 ( -0.9973,   0.0732, -0.0082, 0.0000)
+            ( -0.0123,  -0.0563,  0.9983, 0.0000)
+            (  0.0726,   0.9957,  0.0570, 0.0000)
+            (368.2220, -38.5789,  3.6353, 1.0000)>
+CAMERA
+Camera.004
+<Matrix 4x4 (  0.0142,  0.0042, -0.9999, 0.0000)
+            ( -0.0681, -0.9977, -0.0051, 0.0000)
+            ( -0.9976,  0.0682, -0.0139, 0.0000)
+            (278.9265, -8.9798,  1.4434, 1.0000)>
+CAMERA
+Camera.005
+<Matrix 4x4 ( -0.9999, -0.0031, -0.0101, 0.0000)
+            (  0.0007,  0.9349, -0.3548, 0.0000)
+            (  0.0105, -0.3548, -0.9349, 0.0000)
+            (387.4820, 78.4074, 65.3548, 1.0000)>
+MESH
+Floor_Standard_Cube.001
+<Matrix 4x4 ( 15.0727,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0307, -12.2442, 0.0000)
+            (331.9593,  40.2053,   0.7762, 1.0000)>
+MESH
+Floor_Standard_Cube.018
+<Matrix 4x4 ( 14.1597,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0307, -12.2442, 0.0000)
+            (366.2604,  40.2053,   0.7762, 1.0000)>
+MESH
+Floor_Standard_Cube.019
+<Matrix 4x4 ( 11.4253,   0.0000,   0.0000, 0.0000)
+            (  0.0000, -10.0835,  -0.0253, 0.0000)
+            (  0.0000,   0.0307, -12.2442, 0.0000)
+            (396.4224,  40.2053,   0.7762, 1.0000)>
+MESH
+Statue_Fox_Cylinder.036
+<Matrix 4x4 (  5.2514,  0.0000, -5.9942, 0.0000)
+            ( -0.0000,  7.9692, -0.0000, 0.0000)
+            (  5.9942,  0.0000,  5.2514, 0.0000)
+            (463.7174, 46.0044, 39.4819, 1.0000)>
+MESH
+Statue_Fox_Cylinder.001
+<Matrix 4x4 ( -4.8594,  0.0000,  -6.3162, 0.0000)
+            ( -0.0000,  7.9692,   0.0000, 0.0000)
+            (  6.3162,  0.0000,  -4.8594, 0.0000)
+            (463.7174, 46.0044, -35.2810, 1.0000)>
+MESH
+Statue_Fox_Cylinder.002
+<Matrix 4x4 ( -5.1368,  0.0000,   6.0927, 0.0000)
+            (  0.0000,  7.9692,   0.0000, 0.0000)
+            ( -6.0927,  0.0000,  -5.1368, 0.0000)
+            (261.2854, 46.0044, -35.2743, 1.0000)>
+MESH
+Statue_Fox_Cylinder.003
+<Matrix 4x4 (  4.9784,  0.0000,  6.2228, 0.0000)
+            (  0.0000,  7.9692, -0.0000, 0.0000)
+            ( -6.2228,  0.0000,  4.9784, 0.0000)
+            (262.7039, 46.0044, 39.4751, 1.0000)>
+LIGHT
+Point
+<Matrix 4x4 (  1.0000,  0.0000,   0.0000, 0.0000)
+            (  0.0000,  0.0000,   1.0000, 0.0000)
+            (  0.0000, -1.0000,   0.0000, 0.0000)
+            (263.3510, 60.3064, -32.9455, 1.0000)>
+<Color (r=1.0000, g=0.8569, b=0.5399)>
+Radius: 2.919999837875366
+Type: POINT
+LIGHT
+Point.001
+<Matrix 4x4 (  1.0000,  0.0000,  0.0000, 0.0000)
+            (  0.0000,  0.0000,  1.0000, 0.0000)
+            (  0.0000, -1.0000,  0.0000, 0.0000)
+            (263.3510, 60.3064, 39.1483, 1.0000)>
+<Color (r=1.0000, g=0.8569, b=0.5399)>
+Radius: 2.919999837875366
+Type: POINT
+LIGHT
+Point.002
+<Matrix 4x4 (  1.0000,  0.0000,  0.0000, 0.0000)
+            (  0.0000,  0.0000,  1.0000, 0.0000)
+            (  0.0000, -1.0000,  0.0000, 0.0000)
+            (463.3052, 60.3064, 39.1483, 1.0000)>
+<Color (r=1.0000, g=0.8569, b=0.5399)>
+Radius: 2.919999837875366
+Type: POINT
+LIGHT
+Point.003
+<Matrix 4x4 (  1.0000,  0.0000,   0.0000, 0.0000)
+            (  0.0000,  0.0000,   1.0000, 0.0000)
+            (  0.0000, -1.0000,   0.0000, 0.0000)
+            (463.3052, 60.3064, -34.9111, 1.0000)>
+<Color (r=1.0000, g=0.8569, b=0.5399)>
+Radius: 2.919999837875366
+Type: POINT
+MESH
+Statue_Fox_Cylinder.004
+<Matrix 4x4 ( 14.8015,  0.0000, -16.8949, 0.0000)
+            ( -0.0000, 22.4616,  -0.0000, 0.0000)
+            ( 16.8949,  0.0000,  14.8015, 0.0000)
+            (367.0836, 42.0561,   0.6626, 1.0000)>
+MESH
+Skull_Cylinder.043
+<Matrix 4x4 ( 31.5895,  -6.0878,  -9.7090, 0.0000)
+            (  7.9217,  32.1729,   5.6010, 0.0000)
+            (  8.2809,  -7.5541,  31.6794, 0.0000)
+            (359.6935, 116.2225, -10.1501, 1.0000)>
+LIGHT
+Point.004
+<Matrix 4x4 (  1.0000,   0.0000,   0.0000, 0.0000)
+            (  0.0000,   0.0000,   1.0000, 0.0000)
+            (  0.0000,  -1.0000,   0.0000, 0.0000)
+            (358.1300, 126.7882, -10.7009, 1.0000)>
+<Color (r=1.0000, g=0.8569, b=0.5399)>
+Radius: 2.919999837875366
+Type: POINT
+LIGHT
+Point.005
+<Matrix 4x4 (  1.0000,   0.0000,   0.0000, 0.0000)
+            (  0.0000,   0.0000,   1.0000, 0.0000)
+            (  0.0000,  -1.0000,   0.0000, 0.0000)
+            (364.7679, 124.2739, -10.7009, 1.0000)>
+<Color (r=1.0000, g=0.8569, b=0.5399)>
+Radius: 2.919999837875366
+Type: POINT
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	Start Program.
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 11:14:42 2023] ThreadID[14640]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	Start Program.
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 15:44:44 2023] ThreadID[24904]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	Start Program.
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 15:47:08 2023] ThreadID[16256]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 15:47:28 2023] ThreadID[20344]	Start Program.
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 15:47:29 2023] ThreadID[20344]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	Start Program.
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 15:47:53 2023] ThreadID[34780]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 15:53:44 2023] ThreadID[7948]	Start Program.
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	Start Program.
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 16:22:24 2023] ThreadID[3700]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	Start Program.
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 16:41:36 2023] ThreadID[40216]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 16:43:01 2023] ThreadID[13276]	Start Program.
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 16:43:02 2023] ThreadID[13276]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 16:43:38 2023] ThreadID[28960]	Start Program.
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 16:43:39 2023] ThreadID[28960]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	Start Program.
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 17:08:53 2023] ThreadID[1572]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 17:11:04 2023] ThreadID[25812]	Start Program.
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 17:11:05 2023] ThreadID[25812]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	Start Program.
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 17:20:41 2023] ThreadID[19052]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	Start Program.
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 17:47:47 2023] ThreadID[42712]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	Start Program.
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 20:40:01 2023] ThreadID[5096]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	Start Program.
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 20:40:39 2023] ThreadID[22036]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	Start Program.
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 20:44:33 2023] ThreadID[29768]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	Start Program.
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 20:45:06 2023] ThreadID[32428]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	Start Program.
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 20:45:38 2023] ThreadID[14568]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	Start Program.
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Tue Aug  8 20:46:17 2023] ThreadID[1144]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	Start Program.
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 12:35:13 2023] ThreadID[16652]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	Start Program.
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 12:43:33 2023] ThreadID[11888]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	Start Program.
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 12:46:04 2023] ThreadID[23484]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	Start Program.
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 13:14:40 2023] ThreadID[8640]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	Start Program.
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:15:49 2023] ThreadID[33556]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:19:28 2023] ThreadID[1296]	Start Program.
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:19:32 2023] ThreadID[1296]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:20:38 2023] ThreadID[30468]	Start Program.
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:20:40 2023] ThreadID[30468]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	Start Program.
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:29:32 2023] ThreadID[33856]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	Start Program.
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:30:01 2023] ThreadID[5104]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	Start Program.
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:32:35 2023] ThreadID[196]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	Start Program.
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:32:52 2023] ThreadID[2052]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	Start Program.
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:34:49 2023] ThreadID[24288]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	Start Program.
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:44:05 2023] ThreadID[21124]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:45:08 2023] ThreadID[23120]	Start Program.
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:45:09 2023] ThreadID[23120]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	Start Program.
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:46:31 2023] ThreadID[31924]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:47:52 2023] ThreadID[19560]	Start Program.
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:47:53 2023] ThreadID[19560]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	Start Program.
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:49:37 2023] ThreadID[32104]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	Start Program.
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:50:09 2023] ThreadID[31856]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	Start Program.
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:53:59 2023] ThreadID[30980]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	Start Program.
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 15:55:22 2023] ThreadID[16332]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 16:01:48 2023] ThreadID[16796]	Start Program.
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 16:01:49 2023] ThreadID[16796]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	Start Program.
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[MESSAGE]	Begin Reading Game Level Text File.
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Wed Aug  9 17:27:26 2023] ThreadID[30760]	[INFO]	Model Detected: Floor_Standard_Cube.008
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	Start Program.
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Thu Aug 10 15:58:15 2023] ThreadID[24332]	[INFO]	Model Detected: Floor_Standard_Cube.008

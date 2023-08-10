@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/build/x64/Debug/ZERO_CHECK

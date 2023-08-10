@@ -1,0 +1,20 @@
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	Start Program.
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.056
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X 3.119600 Y 0.184200 Z 5.176600
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.001
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X -6.357100 Y 0.184200 Z -1.998800
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.005
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X -8.154500 Y 0.184200 Z 4.460800
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.006
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X -3.554500 Y 0.184200 Z 4.228900
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.007
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X 3.417000 Y 0.184200 Z -8.415400
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.009
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X -11.952700 Y 0.184200 Z -11.146200
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.010
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X -9.460000 Y 0.184200 Z -3.165600
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.011
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Location: X 3.741300 Y 0.286000 Z -5.845200
+[Tue Aug  8 11:07:51 2023] ThreadID[11284]	[INFO]	Model Detected: Apple_3_Cube.012
