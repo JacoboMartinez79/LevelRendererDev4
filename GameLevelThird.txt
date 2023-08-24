@@ -1461,3 +1461,23 @@ Type: POINT
 [Sun Aug 20 21:42:31 2023] ThreadID[27100]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
 [Sun Aug 20 21:42:31 2023] ThreadID[27100]	[INFO]	Model Detected: Floor_Standard_Cube.008
 [Sun Aug 20 21:42:56 2023] ThreadID[26332]	Start Program.
+[Thu Aug 24 11:23:50 2023] ThreadID[8844]	Start Program.
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[MESSAGE]	Begin Reading Game Level Text File.
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.044
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 281.931305 Y 2.146500 Z -18.166401
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 300.471313 Y 2.097900 Z 1.225000
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.002
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 281.931305 Y 2.097900 Z 1.225000
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.003
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 262.450287 Y 2.097900 Z 1.225000
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.004
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 281.931305 Y 2.049500 Z 20.533800
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.005
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 262.450287 Y 2.049600 Z 20.499300
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.006
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 262.450287 Y 2.146200 Z -18.071301
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.007
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Location: X 281.931305 Y 2.194100 Z -37.171799
+[Thu Aug 24 11:23:51 2023] ThreadID[8844]	[INFO]	Model Detected: Floor_Standard_Cube.008
