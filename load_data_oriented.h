@@ -22,6 +22,9 @@ public:
 		unsigned materialStart;
 		unsigned meshStart;
 		unsigned batchStart;
+		unsigned padding1;
+		unsigned padding2;
+		unsigned padding3;
 	}LM;
 	struct MODEL_INSTANCES // each instance of a model in the level
 	{

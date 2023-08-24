@@ -207,7 +207,7 @@ public:
 			CD3D11_BUFFER_DESC indexDesc(sizeof(m_Object.levelIndices[0]) * m_Object.levelIndices.size(), D3D11_BIND_INDEX_BUFFER); ///INDEX BUFF
 			creator->CreateBuffer(&indexDesc, &iData, IndicesBuffer.GetAddressOf());
 			///Model Buffer const buffer for the level models
-			CD3D11_BUFFER_DESC ModelDesc(sizeof(m_Object.levelModels) * m_Object.levelModels.size(), D3D11_BIND_CONSTANT_BUFFER, D3D11_USAGE_DYNAMIC, D3D11_CPU_ACCESS_WRITE);///Model
+			CD3D11_BUFFER_DESC ModelDesc(sizeof(m_Object.levelModels[0]) * m_Object.levelModels.size(), D3D11_BIND_CONSTANT_BUFFER, D3D11_USAGE_DYNAMIC, D3D11_CPU_ACCESS_WRITE);///Model
 			creator->CreateBuffer(&ModelDesc, nullptr, ModelBuffer.GetAddressOf());
 			/// <summary> this is gonna the const buffer for the camera 
 			///scene buffer
@@ -222,8 +222,7 @@ public:
 			//Create Vertex Shader 
 			Microsoft::WRL::ComPtr<ID3DBlob> vsBlob, errors;
 			if (SUCCEEDED(D3DCompile(vertexShaderSource, strlen(vertexShaderSource),///vertexShaderSource.c_str(), vertexShaderSource.length() if doing extren hlsl files.
-				nullptr, nullptr, nullptr, "main", "vs_4_0", compilerFlags, 0,
-				vsBlob.GetAddressOf(), errors.GetAddressOf())))
+				nullptr, nullptr, nullptr, "main", "vs_4_0", compilerFlags, 0, vsBlob.GetAddressOf(), errors.GetAddressOf())))
 			{
 				creator->CreateVertexShader(vsBlob->GetBufferPointer(),
 					vsBlob->GetBufferSize(), nullptr, vertexShader.GetAddressOf());
@@ -232,9 +231,7 @@ public:
 				std::cout << "Vertex shader compilation error: " << reinterpret_cast<const char*>(errors->GetBufferPointer()) << std::endl;
 			// Create Pixel Shader
 			Microsoft::WRL::ComPtr<ID3DBlob> psBlob; errors.Reset();
-			if (SUCCEEDED(D3DCompile(pixelShaderSource, strlen(pixelShaderSource),
-				nullptr, nullptr, nullptr, "main", "ps_4_0", compilerFlags, 0,
-				psBlob.GetAddressOf(), errors.GetAddressOf())))
+			if (SUCCEEDED(D3DCompile(pixelShaderSource, strlen(pixelShaderSource), nullptr, nullptr, nullptr, "main", "ps_4_0", compilerFlags, 0, psBlob.GetAddressOf(), errors.GetAddressOf())))
 			{
 				creator->CreatePixelShader(psBlob->GetBufferPointer(),
 					psBlob->GetBufferSize(), nullptr, pixelShader.GetAddressOf());
@@ -312,7 +309,7 @@ public:
 		con->Unmap(SceneBuffer.Get(), 0);
 		///update the model buffer
 		con->Map(ModelBuffer.Get(), 0, D3D11_MAP_WRITE_DISCARD, 0, &gpuBuffer);
-		memcpy(gpuBuffer.pData, &m_Object.LM, sizeof(m_Object.LM));
+		memcpy(gpuBuffer.pData, m_Object.levelModels.data(), sizeof(m_Object.LM) * m_Object.levelModels.size());
 		con->Unmap(ModelBuffer.Get(), 0);
 		///////// Connect PipeLine
 		///ID3D11Buffer* ModelPipleLine[] = { ModelBuffer.Get() };
